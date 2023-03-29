@@ -1,0 +1,8 @@
+local inf = {
+   [1] = 'Oil', -- Resource Name
+   [2] = 'Buy', -- Buy or Sell
+   [3] = 5, -- Amount
+   [4] = 1, -- Price Modifier
+   [5] = 'Bulk' -- Trade or Bulk
+   [6] = 'Argentina' -- Trade or Bulk
+}
