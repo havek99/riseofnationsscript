@@ -1,3 +1,4 @@
+wait(1)
 local args = {
     [1] = "United States",
     [2] = "ResourceTrade",
@@ -11,6 +12,7 @@ local args = {
 }
 
 workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
 local args = {
     [1] = "Russia",
     [2] = "ResourceTrade",
@@ -24,6 +26,7 @@ local args = {
 }
 
 workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
 local args = {
     [1] = "Algeria",
     [2] = "ResourceTrade",
@@ -37,6 +40,7 @@ local args = {
 }
 
 workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
 local args = {
     [1] = "Kazakhstan",
     [2] = "ResourceTrade",
