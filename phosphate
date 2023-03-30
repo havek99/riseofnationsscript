@@ -1,0 +1,112 @@
+wait(1)
+local args = {
+    [1] = "Kazakhstan",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Tunisia",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Egypt",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Saudi Arabia",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Morocco",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Brazil",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Russia",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Algeria",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Phosphate",
+        [2] = "Buy",
+        [3] = 1,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
