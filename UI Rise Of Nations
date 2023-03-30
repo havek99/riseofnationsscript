@@ -1,0 +1,75 @@
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local GUI = Mercury:Create{
+    Name = "Rise Of Nations",
+    Size = UDim2.fromOffset(600, 400),
+    Theme = Mercury.Themes.Dark,
+    Link = "https://github.com/deeeity/mercury-lib"
+}
+local Tab = GUI:Tab{
+	Name = "Buy Resources",
+	Icon = "rbxassetid://8569322835"
+}
+Tab:Button{
+	Name = "Buy Iron",
+	Description = nil,
+	Callback = function() 
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/iron"))()
+	end
+}
+Tab:Button{
+	Name = "Mass Buy Cooper and Gold",
+	Description = nil,
+	Callback = function() 
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/cooper%20and%20gold"))()
+	end
+}
+Tab:Button{
+	Name = "Mass Buy Titanium and Tungsten",
+	Description = nil,
+	Callback = function() 
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/titanium%20and%20tugsten"))()
+	end
+}
+Tab:Button{
+	Name = "Mass Buy Phosphate",
+	Description = nil,
+	Callback = function() 
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/phosphate"))()
+	end
+}
+Tab:Button{
+	Name = "Mass Buy Oil",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/Mass%20Oil"))()
+	end
+}
+local Tab = GUI:Tab{
+	Name = "Mass Sell",
+	Icon = "rbxassetid://8497489946"
+}
+Tab:Button{
+	Name = "Mass Sell Consumer Goods",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/consumer%20goods"))()
+	end
+}
+Tab:Button{
+	Name = "Mass Sell Electronics",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/electronics"))()
+	end
+}
+local Tab = GUI:Tab{
+	Name = "Misc",
+	Icon = "rbxassetid://7445543667"
+}
+Tab:Button{
+	Name = "Auto Clear Future Notifications",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/auto%20clear%20future%20notifications"))()
+	end
+}
