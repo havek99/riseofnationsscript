@@ -1,0 +1,62 @@
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Tokyo"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("\197\140saka"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Yokohama")
+    },
+    [2] = "Electronics Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Hiroshima")
+    },
+    [2] = "Steel Manufactory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Tokyo"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("\197\140saka"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Yokohama")
+    },
+    [2] = "Motor Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Sendai")
+    },
+    [2] = "Fertilizer Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Tokyo"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("\197\140saka"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Yokohama")
+    },
+    [2] = "Civilian Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Nagoya"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Fukuoka"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Japan"):WaitForChild("Sapporo")
+    },
+    [2] = "Civilian Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
