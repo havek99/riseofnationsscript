@@ -1,0 +1,71 @@
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Rome"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Milan"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Naples")
+    },
+    [2] = "Electronics Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Florence")
+    },
+    [2] = "Steel Manufactory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Turin")
+    },
+    [2] = "Motor Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Salerno")
+    },
+    [2] = "Fertilizer Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Rome"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Milan"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Naples")
+    },
+    [2] = "Civilian Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Turin"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Florence"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Salerno")
+    },
+    [2] = "Civilian Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Rome"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Milan"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("Italy"):WaitForChild("Naples")
+    },
+    [2] = "Motor Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
