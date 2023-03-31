@@ -84,3 +84,17 @@ Tab:Button{
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/auto%20industry%20japan"))()
 	end
 }
+Tab:Button{
+	Name = "Italy",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/auto%20industry%20italy"))()
+	end
+}
+Tab:Button{
+	Name = "United Kingdom",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/auto%20industry%20united%20kingdom"))()
+	end
+}
