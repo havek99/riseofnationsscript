@@ -1,5 +1,96 @@
 wait(1)
 local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
    [1] = "Brazil",
    [2] = "ResourceTrade",
    [3] = {
@@ -13,33 +104,7 @@ local args = {
 workspace.GameManager.ManageAlliance:FireServer(unpack(args))
 wait(1)
 local args = {
-   [1] = "United States",
-   [2] = "ResourceTrade",
-   [3] = {
-       [1] = "Electronics",
-       [2] = "Sell",
-       [3] = 5,
-       [4] = 1,
-       [5] = "Trade"
-   }
-}
-workspace.GameManager.ManageAlliance:FireServer(unpack(args))
-wait(1)
-local args = {
-   [1] = "Japan",
-   [2] = "ResourceTrade",
-   [3] = {
-       [1] = "Electronics",
-       [2] = "Sell",
-       [3] = 5,
-       [4] = 1,
-       [5] = "Trade"
-   }
-}
-workspace.GameManager.ManageAlliance:FireServer(unpack(args))
-wait(1)
-local args = {
-   [1] = "Mexico",
+   [1] = "China",
    [2] = "ResourceTrade",
    [3] = {
        [1] = "Electronics",
@@ -65,7 +130,46 @@ local args = {
 workspace.GameManager.ManageAlliance:FireServer(unpack(args))
 wait(1)
 local args = {
-   [1] = "China",
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
    [2] = "ResourceTrade",
    [3] = {
        [1] = "Electronics",
@@ -104,7 +208,7 @@ local args = {
 workspace.GameManager.ManageAlliance:FireServer(unpack(args))
 wait(1)
 local args = {
-   [1] = "Egypt",
+   [1] = "Chile",
    [2] = "ResourceTrade",
    [3] = {
        [1] = "Electronics",
@@ -117,7 +221,7 @@ local args = {
 workspace.GameManager.ManageAlliance:FireServer(unpack(args))
 wait(1)
 local args = {
-   [1] = "Turkey",
+   [1] = "Peru",
    [2] = "ResourceTrade",
    [3] = {
        [1] = "Electronics",
@@ -130,20 +234,7 @@ local args = {
 workspace.GameManager.ManageAlliance:FireServer(unpack(args))
 wait(1)
 local args = {
-   [1] = "United Kingdom",
-   [2] = "ResourceTrade",
-   [3] = {
-       [1] = "Electronics",
-       [2] = "Sell",
-       [3] = 5,
-       [4] = 1,
-       [5] = "Trade"
-   }
-}
-workspace.GameManager.ManageAlliance:FireServer(unpack(args))
-wait(1)
-local args = {
-   [1] = "Indonesia",
+   [1] = "South Korea",
    [2] = "ResourceTrade",
    [3] = {
        [1] = "Electronics",
@@ -169,7 +260,3296 @@ local args = {
 workspace.GameManager.ManageAlliance:FireServer(unpack(args))
 wait(1)
 local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
    [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Zimbabwe",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Kazakhstan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Ukraine",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iraq",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
    [2] = "ResourceTrade",
    [3] = {
        [1] = "Electronics",
@@ -196,6 +3576,4555 @@ workspace.GameManager.ManageAlliance:FireServer(unpack(args))
 wait(1)
 local args = {
    [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "France",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Egypt",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Mexico",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Russia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brasil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Uzbekistan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Angola",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Thailand",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Australia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United Kingdom",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Africa",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Brazil",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "China",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "India",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Vietnam",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Canada",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Taiwan",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Bangladesh",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Argentina",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Chile",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Peru",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "South Korea",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Iran",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Nigeria",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Saudi Arabia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Italy",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Turkey",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "Colombia",
+   [2] = "ResourceTrade",
+   [3] = {
+       [1] = "Electronics",
+       [2] = "Sell",
+       [3] = 5,
+       [4] = 1,
+       [5] = "Trade"
+   }
+}
+workspace.GameManager.ManageAlliance:FireServer(unpack(args))
+wait(1)
+local args = {
+   [1] = "United States",
    [2] = "ResourceTrade",
    [3] = {
        [1] = "Electronics",
