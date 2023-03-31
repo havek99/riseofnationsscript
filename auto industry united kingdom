@@ -1,0 +1,71 @@
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("London"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Birmingham"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Manchester")
+    },
+    [2] = "Electronics Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Sheffield")
+    },
+    [2] = "Steel Manufactory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Leeds")
+    },
+    [2] = "Motor Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Glasgow")
+    },
+    [2] = "Fertilizer Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("London"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Birmingham"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Manchester")
+    },
+    [2] = "Civilian Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Leeds"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Sheffield"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Glasgow")
+    },
+    [2] = "Civilian Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("London"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Birmingham"),
+        [3] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("United Kingdom"):WaitForChild("Manchester")
+    },
+    [2] = "Motor Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
