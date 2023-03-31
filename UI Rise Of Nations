@@ -73,3 +73,14 @@ Tab:Button{
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/auto%20clear%20future%20notifications"))()
 	end
 }
+local Tab = GUI:Tab{
+	Name = "Auto Industry",
+	Icon = "rbxassetid://744554366"
+}
+Tab:Button{
+	Name = "Japan",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/auto%20industry%20japan"))()
+	end
+}
