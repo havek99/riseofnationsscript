@@ -80,6 +80,13 @@ Tab:Button{
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/auto%20clear%20future%20notifications"))()
 	end
 }
+Tab:Button{
+	Name = "Total War",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/total%20war"))()
+	end
+}
 local Tab = GUI:Tab{
 	Name = "Auto Industry",
 	Icon = "rbxassetid://744554366"
