@@ -62,6 +62,13 @@ Tab:Button{
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/electronics"))()
 	end
 }
+Tab:Button{
+	Name = "Small Sell Consumer Goods",
+	Description = nil,
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/havek99/riseofnationsscript/main/small%20sell%20consumer%20goods"))()
+	end
+}
 local Tab = GUI:Tab{
 	Name = "Misc",
 	Icon = "rbxassetid://7445543667"
