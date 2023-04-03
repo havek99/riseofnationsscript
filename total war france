@@ -1,0 +1,160 @@
+local args = {
+    [1] = "Luxembourg",
+    [2] = "Conquest"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("JustifyWar"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Andorra",
+    [2] = "Conquest"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("JustifyWar"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Canada",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Gold",
+        [2] = "Buy",
+        [3] = 3,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Chile",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Copper",
+        [2] = "Buy",
+        [3] = 3,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Guinea",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Aluminum",
+        [2] = "Buy",
+        [3] = 2,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Madagascar",
+    [2] = "ResourceTrade",
+    [3] = {
+        [1] = "Chromium",
+        [2] = "Buy",
+        [3] = 2,
+        [4] = 1,
+        [5] = "Trade"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ManageAlliance"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Research",
+    [2] = game:GetService("ReplicatedStorage"):WaitForChild("Assets"):WaitForChild("Technology"):WaitForChild("Economic Improvements")
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ChangeLaw"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Research",
+    [2] = game:GetService("ReplicatedStorage"):WaitForChild("Assets"):WaitForChild("Technology"):WaitForChild("Factory Output 1")
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ChangeLaw"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Research",
+    [2] = game:GetService("ReplicatedStorage"):WaitForChild("Assets"):WaitForChild("Technology"):WaitForChild("Factory Output 2")
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ChangeLaw"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("France"):WaitForChild("Paris"),
+        [2] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("France"):WaitForChild("Lyon")
+    },
+    [2] = "Electronics Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("France"):WaitForChild("Lille")
+    },
+    [2] = "Motor Factory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("France"):WaitForChild("Marseille")
+    },
+    [2] = "Steel Manufactory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        [1] = workspace:WaitForChild("Baseplate"):WaitForChild("Cities"):WaitForChild("France"):WaitForChild("Rennes")
+    },
+    [2] = "Aircraft Manufactory"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("CreateBuilding"):FireServer(unpack(args))
+
+
+wait(1)
+local args = {
+    [1] = "Guernsey",
+    [2] = "Conquest"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("JustifyWar"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Jersey",
+    [2] = "Conquest"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("JustifyWar"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Ideology",
+    [2] = "Nationalism"
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ChangeLaw"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Doctrine",
+    [2] = {
+        [1] = "Army",
+        [2] = "Massed Attack"
+    }
+}
+
+workspace:WaitForChild("GameManager"):WaitForChild("ChangeLaw"):FireServer(unpack(args))
